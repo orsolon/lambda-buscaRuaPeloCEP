@@ -1,0 +1,17 @@
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\bin\Debug\net6.0\CEP_AWSLambda.deps.json
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\bin\Debug\net6.0\CEP_AWSLambda.runtimeconfig.json
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\bin\Debug\net6.0\CEP_AWSLambda.dll
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\bin\Debug\net6.0\CEP_AWSLambda.pdb
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\CEP_AWSLambda.csproj.AssemblyReference.cache
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\CEP_AWSLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\CEP_AWSLambda.AssemblyInfoInputs.cache
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\CEP_AWSLambda.AssemblyInfo.cs
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\CEP_AWSLambda.csproj.CoreCompileInputs.cache
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\CEP_AWSLambda.csproj.CopyComplete
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\CEP_AWSLambda.dll
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\refint\CEP_AWSLambda.dll
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\CEP_AWSLambda.pdb
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\CEP_AWSLambda.genruntimeconfig.cache
+C:\Users\debora.orsolon\Desktop\.Net\CEP_AWSLambda\CEP_AWSLambda\obj\Debug\net6.0\ref\CEP_AWSLambda.dll

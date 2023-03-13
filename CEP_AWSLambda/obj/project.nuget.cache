@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5MwVlgDHsptljZVJYrV2eEh6Mt9zlt5r9uxrHKh3DBLH3H2rLe4Wb8v5BPT1jUHqYeVi5ytliPTek0EOZWbfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debora.orsolon\\Desktop\\.Net\\CEP_AWSLambda\\CEP_AWSLambda\\CEP_AWSLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debora.orsolon\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\debora.orsolon\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\debora.orsolon\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.11\\microsoft.netcore.app.crossgen2.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
